@@ -54,4 +54,4 @@ Full-stack Web development project made in 2 weeks from technologies that I star
   
   A finance manager can log in as normal, view all reimbursement requests for every user, accept & reject reimbursement requests, and log out using a clean, intuitive UI.
 
-Project was commissioned as a paid assignment by Revature, LLC.
+
